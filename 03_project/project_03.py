@@ -72,3 +72,5 @@ async def main():
 
 if __name__=='__main__':
     asyncio.run(main())
+
+    draw_graph(pana_cloud_agent)
